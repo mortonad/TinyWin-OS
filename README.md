@@ -1,4 +1,4 @@
-# 🚀 人生小贏導航系統(TinyWin OS) — AI Skills Framework
+# 🚀 TinyWin OS — AI 小贏作業系統
 
 > **QSLR (Quick Success, Little Recovery)**
 > 快速拿到一個小勝利，快速從小挫敗復原。
@@ -11,16 +11,18 @@
 ## 📁 目錄結構
 
 ```
-skills/
-├── SYSTEM_PROMPT.md              # 主控路由器（Persona + 狀態偵測 + 技能調度）
-├── USAGE_GUIDE.md                # 使用指南
-├── nightly-reset-SKILL.md        # SKILL-01 睡前掃雷
-├── pivot-action-SKILL.md         # SKILL-02 壓力降級
-├── ugly-draft-SKILL.md           # SKILL-03 醜陋初稿
-├── ghost-racing-SKILL.md         # SKILL-04 影子賽車
-├── loss-cutter-SKILL.md          # SKILL-05 停損刀斧手
-├── mind-dumping-SKILL.md         # SKILL-06 思緒傾印
-└── breadcrumb-pause-SKILL.md     # SKILL-07 進度防腐
+TinyWin-OS/
+└── skills/
+    ├── README.md                     # 本文件
+    ├── SYSTEM_PROMPT.md              # 主控路由器（Persona + 狀態偵測 + 技能調度）
+    │
+    ├── nightly-reset/SKILL.md        # SKILL-01 睡前掃雷
+    ├── pivot-action/SKILL.md         # SKILL-02 壓力降級
+    ├── ugly-draft/SKILL.md           # SKILL-03 醜陋初稿
+    ├── ghost-racing/SKILL.md         # SKILL-04 影子賽車
+    ├── loss-cutter/SKILL.md          # SKILL-05 停損刀斧手
+    ├── mind-dumping/SKILL.md         # SKILL-06 思緒傾印
+    └── breadcrumb-pause/SKILL.md     # SKILL-07 進度防腐
 ```
 
 ---
@@ -88,7 +90,7 @@ skills/
 
 ```
 # 範例：只啟用「壓力降級」
-將 pivot-action/SKILL.md 的內容貼入對話中
+將 skills/pivot-action/SKILL.md 的內容貼入對話中
 ```
 
 ### 方法三：整合至 AI Agent 開發框架
@@ -129,7 +131,8 @@ allowed-tools: Read, Write
 
 ## 📄 授權與歸屬
 
-- **開發者**：Morton (受cassie8flowceo啟發)
+- **專案名稱**：TinyWin OS（小贏作業系統）
+- **開發者**：Morton (FlowGPS)
 - **版本**：v2.0
 - **方法論**：QSLR (Quick Success, Little Recovery)
 - **適用對象**：有拖延傾向、高敏感特質、多重潛能的行動者
