@@ -129,7 +129,7 @@ allowed-tools: Read, Write
 
 ## 📄 授權與歸屬
 
-- **開發者**：Morton (FlowGPS)
+- **開發者**：Morton (受cassie8flowceo啟發)
 - **版本**：v2.0
 - **方法論**：QSLR (Quick Success, Little Recovery)
 - **適用對象**：有拖延傾向、高敏感特質、多重潛能的行動者
