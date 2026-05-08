@@ -13,14 +13,14 @@
 ```
 skills/
 ├── SYSTEM_PROMPT.md              # 主控路由器（Persona + 狀態偵測 + 技能調度）
-│
-├── nightly-reset/SKILL.md        # SKILL-01 睡前掃雷
-├── pivot-action/SKILL.md         # SKILL-02 壓力降級
-├── ugly-draft/SKILL.md           # SKILL-03 醜陋初稿
-├── ghost-racing/SKILL.md         # SKILL-04 影子賽車
-├── loss-cutter/SKILL.md          # SKILL-05 停損刀斧手
-├── mind-dumping/SKILL.md         # SKILL-06 思緒傾印
-└── breadcrumb-pause/SKILL.md     # SKILL-07 進度防腐
+├── USAGE_GUIDE.md                # 使用指南
+├── nightly-reset-SKILL.md        # SKILL-01 睡前掃雷
+├── pivot-action-SKILL.md         # SKILL-02 壓力降級
+├── ugly-draft-SKILL.md           # SKILL-03 醜陋初稿
+├── ghost-racing-SKILL.md         # SKILL-04 影子賽車
+├── loss-cutter-SKILL.md          # SKILL-05 停損刀斧手
+├── mind-dumping-SKILL.md         # SKILL-06 思緒傾印
+└── breadcrumb-pause-SKILL.md     # SKILL-07 進度防腐
 ```
 
 ---
