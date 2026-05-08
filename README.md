@@ -17,7 +17,6 @@ TinyWin-OS/
     ├── INTRODUCTION.md               # 系統簡介與核心哲學
     ├── USAGE_GUIDE.md                # 完整使用手冊與 SOP
     ├── SYSTEM_PROMPT.md              # 主控路由器（Persona + 狀態偵測 + 技能調度）
-    │
     ├── nightly-reset-SKILL.md        # SKILL-01 睡前掃雷
     ├── pivot-action-SKILL.md         # SKILL-02 壓力降級
     ├── ugly-draft-SKILL.md           # SKILL-03 醜陋初稿
