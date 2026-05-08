@@ -1,4 +1,4 @@
-# 🚀 人生小贏導航系統 — AI Skills Framework
+# 🚀 人生小贏導航系統(TinyWin OS) — AI Skills Framework
 
 > **QSLR (Quick Success, Little Recovery)**
 > 快速拿到一個小勝利，快速從小挫敗復原。
