@@ -40,13 +40,14 @@ allowed-tools: Read, Write, Calendar, Whisper
 
 | 偵測到的信號 | 使用者狀態 | 調度技能 | 技能檔案 |
 |---|---|---|---|
-| 焦慮、龐大、好多事、壓力大 | 啟動癱瘓 | SKILL-02 壓力降級 | `pivot-action/SKILL.md` |
-| 明天要、還沒準備、隔天行程 | 預防性焦慮 | SKILL-01 睡前掃雷 | `nightly-reset/SKILL.md` |
-| 猶豫、完美、不夠好、還差一點 | 完美主義發作 | SKILL-03 醜陋初稿 | `ugly-draft/SKILL.md` |
-| 別人都、他好強、我不如 | 比較焦慮 | SKILL-04 影子賽車 | `ghost-racing/SKILL.md` |
-| 做了好久、放不下、浪費 | 沉沒成本困境 | SKILL-05 停損刀斧手 | `loss-cutter/SKILL.md` |
-| 混亂、好亂、累、腦袋爆炸 | 認知過載 | SKILL-06 思緒傾印 | `mind-dumping/SKILL.md` |
-| 被打斷、等等再說、先處理 | 工作中斷 | SKILL-07 進度防腐 | `breadcrumb-pause/SKILL.md` |
+| 焦慮、龐大、好多事、壓力大 | 啟動癱瘓 | SKILL-02 壓力降級 | `pivot-action-SKILL.md` |
+| 明天要、還沒準備、隔天行程 | 預防性焦慮 | SKILL-01 睡前掃雷 | `nightly-reset-SKILL.md` |
+| 猶豫、完美、不夠好、還差一點 | 完美主義發作 | SKILL-03 醜陋初稿 | `ugly-draft-SKILL.md` |
+| 別人都、他好強、我不如 | 比較焦慮 | SKILL-04 影子賽車 | `ghost-racing-SKILL.md` |
+| 做了好久、放不下、浪費 | 沉沒成本困境 | SKILL-05 停損刀斧手 | `loss-cutter-SKILL.md` |
+| 混亂、好亂、累、腦袋爆炸 | 認知過載 | SKILL-06 思緒傾印 | `mind-dumping-SKILL.md` |
+| 被打斷、等等再說、先處理 | 工作中斷 | SKILL-07 進度防腐 | `breadcrumb-pause-SKILL.md` |
+| 整理一下、靈感、對話結束 | 知識蒸發 | SKILL-08 想法萃取 | `idea-harvester-SKILL.md` |
 
 ### 路由規則
 
@@ -109,10 +110,11 @@ allowed-tools: Read, Write, Calendar, Whisper
 
 | 編號 | 技能名稱 | 模組歸屬 | 路徑 |
 |---|---|---|---|
-| SKILL-01 | 睡前掃雷 Nightly Reset | 啟動防禦 | `TinyWin-OS/skills/nightly-reset/SKILL.md` |
-| SKILL-02 | 壓力降級 Pivot Action | 啟動防禦 | `TinyWin-OS/skills/pivot-action/SKILL.md` |
-| SKILL-03 | 醜陋初稿 Ugly Draft | 認知優化 | `TinyWin-OS/skills/ugly-draft/SKILL.md` |
-| SKILL-04 | 影子賽車 Ghost Racing | 認知優化 | `TinyWin-OS/skills/ghost-racing/SKILL.md` |
-| SKILL-05 | 停損刀斧手 Loss Cutter | 認知優化 | `TinyWin-OS/skills/loss-cutter/SKILL.md` |
-| SKILL-06 | 思緒傾印 Mind Dumping | RAM 外包 | `TinyWin-OS/skills/mind-dumping/SKILL.md` |
-| SKILL-07 | 進度防腐 Breadcrumb Pause | RAM 外包 | `TinyWin-OS/skills/breadcrumb-pause/SKILL.md` |
+| SKILL-01 | 睡前掃雷 Nightly Reset | 啟動防禦 | `nightly-reset-SKILL.md` |
+| SKILL-02 | 壓力降級 Pivot Action | 啟動防禦 | `pivot-action-SKILL.md` |
+| SKILL-03 | 醜陋初稿 Ugly Draft | 認知優化 | `ugly-draft-SKILL.md` |
+| SKILL-04 | 影子賽車 Ghost Racing | 認知優化 | `ghost-racing-SKILL.md` |
+| SKILL-05 | 停損刀斧手 Loss Cutter | 認知優化 | `loss-cutter-SKILL.md` |
+| SKILL-06 | 思緒傾印 Mind Dumping | RAM 外包 | `mind-dumping-SKILL.md` |
+| SKILL-07 | 進度防腐 Breadcrumb Pause | RAM 外包 | `breadcrumb-pause-SKILL.md` |
+| SKILL-08 | 想法萃取 Idea Harvester | 知識萃取 | `idea-harvester-SKILL.md` |

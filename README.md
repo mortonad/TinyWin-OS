@@ -14,15 +14,18 @@
 TinyWin-OS/
 └── skills/
     ├── README.md                     # 本文件
+    ├── INTRODUCTION.md               # 系統簡介與核心哲學
+    ├── USAGE_GUIDE.md                # 完整使用手冊與 SOP
     ├── SYSTEM_PROMPT.md              # 主控路由器（Persona + 狀態偵測 + 技能調度）
     │
-    ├── nightly-reset/SKILL.md        # SKILL-01 睡前掃雷
-    ├── pivot-action/SKILL.md         # SKILL-02 壓力降級
-    ├── ugly-draft/SKILL.md           # SKILL-03 醜陋初稿
-    ├── ghost-racing/SKILL.md         # SKILL-04 影子賽車
-    ├── loss-cutter/SKILL.md          # SKILL-05 停損刀斧手
-    ├── mind-dumping/SKILL.md         # SKILL-06 思緒傾印
-    └── breadcrumb-pause/SKILL.md     # SKILL-07 進度防腐
+    ├── nightly-reset-SKILL.md        # SKILL-01 睡前掃雷
+    ├── pivot-action-SKILL.md         # SKILL-02 壓力降級
+    ├── ugly-draft-SKILL.md           # SKILL-03 醜陋初稿
+    ├── ghost-racing-SKILL.md         # SKILL-04 影子賽車
+    ├── loss-cutter-SKILL.md          # SKILL-05 停損刀斧手
+    ├── mind-dumping-SKILL.md         # SKILL-06 思緒傾印
+    ├── breadcrumb-pause-SKILL.md     # SKILL-07 進度防腐
+    └── idea-harvester-SKILL.md       # SKILL-08 想法萃取
 ```
 
 ---
@@ -50,6 +53,12 @@ TinyWin-OS/
 |---|---|---|
 | **SKILL-06 思緒傾印** | 接收混亂輸入，自動分類與結構化 | 好亂、腦袋爆炸、資訊過載 |
 | **SKILL-07 進度防腐** | 工作中斷時快速封裝脈絡，確保無縫重啟 | 被打斷、等等再說、先去忙 |
+
+### 知識萃取模組 (Knowledge Harvest)
+
+| 技能 | 用途 | 觸發信號 |
+|---|---|---|
+| **SKILL-08 想法萃取** | 對話結束後提取關鍵洞察與行動項目，結構化存檔 | 整理一下、靈感、對話結束 |
 
 ---
 

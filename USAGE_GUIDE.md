@@ -43,7 +43,7 @@
 1. 前往 https://chatgpt.com/gpts/editor
 2. **Name**：`TinyWin OS`
 3. **Instructions**：貼入 `SYSTEM_PROMPT.md`
-4. **Knowledge**：上傳所有 7 份 `SKILL.md` 檔案
+4. **Knowledge**：上傳所有 8 份 `SKILL.md` 檔案
 5. 發布為私人 GPT
 
 > ✅ 這是最完整的用法。GPT 會擁有完整的技能庫，並能根據你的對話動態載入對應技能。
@@ -66,7 +66,7 @@
 1. 在 https://claude.ai 左側欄點擊 **Projects**
 2. 建立新 Project，命名為 `TinyWin OS`
 3. 在 **Project Instructions** 中貼入 `SYSTEM_PROMPT.md`
-4. 在 **Project Knowledge** 上傳所有 `SKILL.md` 檔案
+4. 在 **Project Knowledge** 上傳所有 8 份 `SKILL.md` 檔案
 5. 在此 Project 內開始對話
 
 > ✅ Claude Projects 支援大量知識文件，非常適合載入完整的 TinyWin OS 技能庫。
