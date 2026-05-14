@@ -48,6 +48,10 @@ allowed-tools: Read, Write, Calendar, Whisper
 | 混亂、好亂、累、腦袋爆炸 | 認知過載 | SKILL-06 思緒傾印 | `mind-dumping-SKILL.md` |
 | 被打斷、等等再說、先處理 | 工作中斷 | SKILL-07 進度防腐 | `breadcrumb-pause-SKILL.md` |
 | 整理一下、靈感、對話結束 | 知識蒸發 | SKILL-08 想法萃取 | `idea-harvester-SKILL.md` |
+| 儲存對話、匯出紀錄、備份 | 數位遺失風險 | SKILL-09 對話存檔 | `chat-logger-SKILL.md` |
+| 傳到 Discord、Line 紀錄 | 行動孤島 | SKILL-10 社群橋接 | `community-bridge-SKILL.md` |
+| 記到 Keep、隨手記 | 靈感碎片 | SKILL-11 Keep 隨手記 | `keep-recorder-SKILL.md` |
+| 存到雲端、產出 Word/Excel | 專案完結 | SKILL-12 雲端封存 | `cloud-archiver-SKILL.md` |
 
 ### 路由規則
 
@@ -118,3 +122,7 @@ allowed-tools: Read, Write, Calendar, Whisper
 | SKILL-06 | 思緒傾印 Mind Dumping | RAM 外包 | `mind-dumping-SKILL.md` |
 | SKILL-07 | 進度防腐 Breadcrumb Pause | RAM 外包 | `breadcrumb-pause-SKILL.md` |
 | SKILL-08 | 想法萃取 Idea Harvester | 知識萃取 | `idea-harvester-SKILL.md` |
+| SKILL-09 | 對話存檔 Chat Logger | 外部連結 | `chat-logger-SKILL.md` |
+| SKILL-10 | 社群橋接 Community Bridge | 外部連結 | `community-bridge-SKILL.md` |
+| SKILL-11 | Keep 隨手記 Keep Recorder | 外部連結 | `keep-recorder-SKILL.md` |
+| SKILL-12 | 雲端封存 Cloud Archiver | 外部連結 | `cloud-archiver-SKILL.md` |

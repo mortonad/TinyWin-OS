@@ -17,6 +17,7 @@ TinyWin-OS/
     ├── INTRODUCTION.md               # 系統簡介與核心哲學
     ├── USAGE_GUIDE.md                # 完整使用手冊與 SOP
     ├── SYSTEM_PROMPT.md              # 主控路由器（Persona + 狀態偵測 + 技能調度）
+    │
     ├── nightly-reset-SKILL.md        # SKILL-01 睡前掃雷
     ├── pivot-action-SKILL.md         # SKILL-02 壓力降級
     ├── ugly-draft-SKILL.md           # SKILL-03 醜陋初稿
@@ -24,7 +25,11 @@ TinyWin-OS/
     ├── loss-cutter-SKILL.md          # SKILL-05 停損刀斧手
     ├── mind-dumping-SKILL.md         # SKILL-06 思緒傾印
     ├── breadcrumb-pause-SKILL.md     # SKILL-07 進度防腐
-    └── idea-harvester-SKILL.md       # SKILL-08 想法萃取
+    ├── idea-harvester-SKILL.md       # SKILL-08 想法萃取
+    ├── chat-logger-SKILL.md          # SKILL-09 對話存檔
+    ├── community-bridge-SKILL.md     # SKILL-10 社群橋接
+    ├── keep-recorder-SKILL.md        # SKILL-11 Keep 隨手記
+    └── cloud-archiver-SKILL.md       # SKILL-12 雲端封存
 ```
 
 ---
@@ -58,6 +63,10 @@ TinyWin-OS/
 | 技能 | 用途 | 觸發信號 |
 |---|---|---|
 | **SKILL-08 想法萃取** | 對話結束後提取關鍵洞察與行動項目，結構化存檔 | 整理一下、靈感、對話結束 |
+| **SKILL-09 對話存檔** | 將對話紀錄匯出為記事本格式，支援匯入匯出 | 儲存對話、備份紀錄 |
+| **SKILL-10 社群橋接** | 同步紀錄至 Discord、Line 等社群終端 | 傳到 Discord、Line 紀錄 |
+| **SKILL-11 Keep 隨手記** | 快速同步靈感或清單至 Google Keep | 記到 Keep、隨手記 |
+| **SKILL-12 雲端封存** | 存檔至 Google Drive 並產出 Word/Excel | 存到雲端、產出 Word |
 
 ---
 
